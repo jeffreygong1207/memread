@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+asyncpg
+psycopg2-binary
+pgvector
+sqlmodel
+alembic
+pydantic-settings
+python-multipart
+httpx
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
